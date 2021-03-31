@@ -1,5 +1,5 @@
 # retronid
-![retronid branding](/retronid/branding.png)
+![retronid branding](https://raw.githubusercontent.com/retronbv/retronid-py/master/retronid/branding.png)
 
 A short unique id.
 
